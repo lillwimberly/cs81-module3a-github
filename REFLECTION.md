@@ -1,0 +1,1 @@
+This assignment was a nice introduction to git and GitHub. The markup language and commands used for git are still difficult to grasp because theirs resulting actions are not immediate as they are in JS. Luckily there are many resources online to help guide me through the process.

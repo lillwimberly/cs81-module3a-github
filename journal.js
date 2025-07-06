@@ -53,6 +53,7 @@ Bernadette, my darling Bernadette\n`;
 };
 
 const minNumber = (num1, num2) => {
+  if (typeof(num1) !== 'number' || typeof(num2) !== 'number') return 'Only accepts numbers, try again';
   if (num1 < num2) return num1;
   if (num1 === num2) return 'They are equal!';
   return num2;
